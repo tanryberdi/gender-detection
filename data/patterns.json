@@ -1,0 +1,18 @@
+{
+  "suffixes": [
+    {"pattern": "gül", "type": "suffix", "gender": "female", "confidence": 0.95},
+    {"pattern": "gul", "type": "suffix", "gender": "female", "confidence": 0.95},
+    {"pattern": "jan", "type": "suffix", "gender": "female", "confidence": 0.85},
+    {"pattern": "ay", "type": "suffix", "gender": "female", "confidence": 0.75},
+    {"pattern": "bek", "type": "suffix", "gender": "male", "confidence": 0.90},
+    {"pattern": "beg", "type": "suffix", "gender": "male", "confidence": 0.90},
+    {"pattern": "han", "type": "suffix", "gender": "male", "confidence": 0.80},
+    {"pattern": "din", "type": "suffix", "gender": "male", "confidence": 0.85},
+    {"pattern": "bay", "type": "suffix", "gender": "male", "confidence": 0.85},
+    {"pattern": "oy", "type": "suffix", "gender": "female", "confidence": 0.80}
+  ],
+  "prefixes": [],
+  "contains": [
+    {"pattern": "gul", "type": "contains", "gender": "female", "confidence": 0.70}
+  ]
+}
